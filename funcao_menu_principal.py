@@ -5,6 +5,7 @@ from funcao_fazer_pedido import fazer_pedido
 from funcao_fazer_reserva import fazer_Reserva
 from funcao_buscar_pratos import Busca_Pratos
 from funcao_carrinho import carrinho
+from funcao_minhas_reservas import mostrar_reservas
 import pandas as pd
 from tabulate import tabulate
 import os 
@@ -19,6 +20,7 @@ def menu_principal():
         2 → Fazer Pedido
         3 → Fazer Reserva
         4 → Ver Carrinho
+        5 → Ver Minhas Reservas
         0 → Sair do Sistema
     ''')
 
@@ -48,5 +50,8 @@ def menu_principal():
         elif opcao == "4":
             limpar_tela()
             carrinho()
+        elif opcao == "5":
+            limpar_tela()
+            mostrar_reservas()
         else:
             print('Opção inválida. Por favor, escolha uma opção válida.')
