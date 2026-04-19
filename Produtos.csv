@@ -1,0 +1,231 @@
+Categoria,Prato,Descricao,Preco
+Entradas,Carpaccio de Wagyu,Lâminas de Wagyu com azeite de trufas brancas e alcaparras,125.00
+Entradas,Burrata ao Pesto de Pistache,Burrata artesanal com pesto de pistache e tomates confitados,110.00
+Entradas,Tartare de Atum Premium,Atum fresco picado com especiarias e base de abacate,98.00
+Entradas,Vieiras ao Limone,Vieiras canadenses seladas com redução de limão siciliano,165.00
+Entradas,Ostras Frescas da Ilha,Ostras frescas servidas com vinagrete de maçã verde (6 un),145.00
+Entradas,Camarões à Provençal,Camarões médios salteados no alho e ervas finas,125.00
+Entradas,Arancini de Cordeiro,Bolinhos de risoto recheados com cordeiro desfiado (4 un),88.00
+Entradas,Tábua de Queijos Europeus,Seleção de Brie Roquefort e Gouda envelhecido,185.00
+Entradas,Ceviche de Robalo,Robalo marinado no limão com cebola roxa e milho crocante,95.00
+Entradas,Bruschetta de Parma,Pão artesanal com tomate cereja e presunto de parma,85.00
+Entradas,Dadinho de Tapioca com Geléia,Dadinhos crocantes com geléia de pimenta defumada,72.00
+Entradas,Crocante de Siri,Bolinho de siri puro com molho tártaro da casa,92.00
+Entradas,Foie Gras Grelhado,Lâmina de foie gras com redução de vinho do porto e brioche,245.00
+Entradas,Escargots à la Bourguignonne,Escargots na manteiga de ervas e alho (6 un),195.00
+Entradas,Salada Caesar Premium,Folhas jovens com croutons de brioche e lascas de grana padano,82.00
+Entradas,Mix de Cogumelos ao Vinho,Shimeji e shitake salteados no vinho branco e manteiga,98.00
+Entradas,Carpaccio de Salmão,Lâminas de salmão com raspas de limão e pimenta rosa,105.00
+Entradas,Pastel de Lagosta,Massa fina recheada com lagosta cremosa (3 un),125.00
+Entradas,Creme de Aspargos,Creme aveludado de aspargos frescos com amêndoas,88.00
+Entradas,Mini Hambúrguer de Wagyu,Três mini burgers com queijo gruyère e cebola caramelizada,115.00
+Entradas,Ceviche de Salmão e Manga,Salmão em cubos com manga e leite de tigre de maracujá,95.00
+Entradas,Mexilhões ao Vinho Branco,Mexilhões frescos cozidos com ervas e vinho,115.00
+Entradas,Camembert Assado com Mel,Queijo camembert inteiro com mel e amêndoas torradas,110.00
+Entradas,Carpaccio de Beterraba,Lâminas de beterraba defumada com queijo de cabra e nozes,78.00
+Entradas,Polenta Frita com Gorgonzola,Palitos de polenta cremosa com molho de queijo azul,68.00
+Entradas,Cesta de Pães Artesanais,Mix de pães de fermentação natural com manteiga trufada,55.00
+Entradas,Lula à Dorê Premium,Anéis de lula empanados com farinha panko e limão siciliano,110.00
+Entradas,Steak Tartare Clássico,Carne bovina picada na ponta da faca com gema de ovo,108.00
+Entradas,Salada de Figo e Parma,Mix de folhas com figos frescos presunto de parma e redução,88.00
+Entradas,Caldo de Mandioquinha com Camarão,Creme aveludado com pequenos camarões salteados,82.00
+Carne,Ancho Angus Dry Aged,Corte de 400g maturado a seco por 30 dias com batatas,245.00
+Carne,Filet Mignon ao Poivre,Medalhão de filet com molho de pimentas verdes e batatas gratin,185.00
+Carne,Carré de Cordeiro,Carré em crosta de ervas com purê de hortelã e cuscuz,265.00
+Carne,Tomahawk Premium,Corte especial de 900g na brasa (serve duas pessoas),495.00
+Carne,Magret de Pato,Peito de pato grelhado com redução de amoras e risoto,215.00
+Carne,Picanha Premium Uruguaya,Fatias de picanha grelhadas com arroz biro-biro,175.00
+Carne,Costela 12 Horas,Costela bovina assada lentamente com purê de mandioquinha,165.00
+Carne,Prime Rib Angus,Corte com osso grelhado na parrilha com legumes,260.00
+Carne,Short Rib Black Angus,Corte macio e marmorizado com farofa de ovos,225.00
+Carne,Chateaubriand ao Madeira,Corte alto de filet com cogumelos frescos e arroz,198.00
+Carne,Shoulder Steak de Wagyu,Corte dianteiro macio com risoto de queijo,285.00
+Carne,Bife de Tira,Corte longitudinal da picanha com batata frita rústica,195.00
+Carne,Ossobuco com Polenta,Ossobuco cozido no vinho tinto com polenta cremosa,155.00
+Carne,Confit de Pato,Coxa e sobrecoxa de pato confitadas com purê de maçã,210.00
+Carne,Galeto Primo Canto,Galeto marinado com ervas e polenta frita,115.00
+Carne,Cupim Assado no Bafo,Cupim desmanchando com farofa de castanhas,125.00
+Carne,Bombom de Alcatra,Corte central da alcatra com legumes na brasa,155.00
+Carne,Assado de Tira,Costela bovina cortada transversalmente com chimichurri,178.00
+Carne,Filet à Parmegiana Gourmet,Filet mignon empanado com molho de tomate natural,165.00
+Carne,Strogonoff de Filet Nobre,Filet mignon com champignon fresco e batata artesanal,135.00
+Carne,T-Bone Steak Angus,Corte com filet e contra-filet grelhado na brasa,255.00
+Carne,Vazio de Angus Grelhado,Fraldinha premium servida com vinagrete de biquinho,168.00
+Carne,Denver Steak Premium,Corte marmorizado do acém com purê de batata baroa,185.00
+Carne,Cordeiro Ensopado ao Vinho,Cozido lentamente com legumes e ervas finas,158.00
+Carne,Porchetta Italiana,Barriga de porco assada e crocante com polenta,145.00
+Carne,Lombo Suíno ao Molho de Ameixa,Grelhado com redução de ameixa e arroz com passas,125.00
+Carne,Flat Iron Steak,Corte da paleta bovina macio com manteiga de ervas,178.00
+Carne,Scaloppine ao Marsala,Iscas de filet mignon com molho de vinho marsala,148.00
+Carne,Maminha na Manteiga de Alho,Peça inteira fatiada servida na chapa,155.00
+Carne,Filet Rossini,Medalhão com foie gras e redução de vinho do porto,325.00
+Peixe,Bacalhau à Lagareiro,Lombo de bacalhau Gadus Morhua com azeitonas e batatas,285.00
+Peixe,Lagosta na Manteiga,Cauda de lagosta inteira grelhada com risoto de açafrão,395.00
+Peixe,Salmão em Crosta,Filé de salmão com crosta de gergelim e legumes no vapor,158.00
+Peixe,Moqueca de Frutos do Mar,Camarão polvo peixe e lula com arroz de coco,310.00
+Peixe,Polvo à Galega,Tentáculos de polvo grelhados com páprica defumada,245.00
+Peixe,Robalo em Papilote,Robalo com legumes e ervas cozido no próprio suco,185.00
+Peixe,Abadejo com Crosta de Amêndoas,Filé de abadejo com purê de banana da terra,192.00
+Peixe,Camarão Internacional,Camarões sobre arroz cremoso com presunto e batata,215.00
+Peixe,Linguado ao Alcaparras,Filé de linguado com arroz de amêndoas,175.00
+Peixe,Atum em Crosta de Pimenta,Atum selado com interior cru e purê de wasabi,195.00
+Peixe,Moqueca de Camarão G,Camarões grandes no azeite de dendê e leite de coco,265.00
+Peixe,Paella Marinera,Arroz espanhol com frutos do mar variados (serve 2),450.00
+Peixe,Truta com Amêndoas,Truta grelhada com manteiga noisette e batatas,135.00
+Peixe,Bacalhau com Natas,Lascas de bacalhau com creme de leite e batatas,175.00
+Peixe,Cherne ao Molho de Camarão,Filé de cherne grelhado com molho de camarão,225.00
+Peixe,Lulas Recheadas,Lulas recheadas com siri e arroz negro,165.00
+Peixe,Vieiras com Risoto de Limão,Vieiras seladas sobre risoto de limão siciliano,245.00
+Peixe,Filet de Saint Peter,Grelhado com molho de ervas e arroz integral,115.00
+Peixe,Bobó de Camarão Premium,Bobó cremoso com mandioca e arroz branco,195.00
+Peixe,Peixe do Dia Inteiro,Peixe assado na brasa com guarnição de legumes,250.00
+Peixe,Côngrio Rosa Grelhado,Filé de côngrio com molho de uvas verdes e arroz,205.00
+Peixe,Tilápia com Crosta de Ervas,Filé de tilápia levemente empanado com purê de batata,108.00
+Peixe,Polvo com Arroz Negro,Tentáculos de polvo sobre arroz negro cremoso,248.00
+Peixe,Sinfonia de Frutos do Mar,Mix de lagosta camarão e lula na chapa,420.00
+Peixe,Bacalhau à Brás,Bacalhau desfiado com cebola batata palha e ovos,155.00
+Peixe,Filet de Salmão ao Maracujá,Grelhado com molho cítrico de maracujá,148.00
+Peixe,Camarão na Moranga Premium,Camarões médios servidos dentro da abóbora,265.00
+Peixe,Strogonoff de Camarão,Camarões selecionados com arroz e batata palha,185.00
+Peixe,Atum Selado com Crosta de Gergelim,Acompanha legumes orientais no shoyu,175.00
+Peixe,Bacalhau com Broa,Lombo de bacalhau assado com crosta de pão de milho,295.00
+Vegano,Risoto de Trufas,Arroz arbóreo com mix de cogumelos e azeite trufado,125.00
+Vegano,Nhoque de Batata Docel,Nhoque artesanal com molho de tomate pelado,98.00
+Vegano,Moqueca de Banana,Moqueca típica acompanhada de arroz integral e farofa,115.00
+Vegano,Lasanha de Vegetais,Camadas de vegetais com molho bechamel de amêndoas,108.00
+Vegano,Bowl Mediterrâneo,Mix de grãos legumes grelhados e homus,98.00
+Vegano,Espaguete de Abobrinha,Fios de abobrinha ao pesto de manjericão e nozes,92.00
+Vegano,Curry de Grão de Bico,Grão de bico com leite de coco e especiarias,95.00
+Vegano,Hambúrguer de Grão de Bico,Burger artesanal no pão vegano com fritas,85.00
+Vegano,Tofu Grelhado com Legumes,Tofu marinado no shoyu com mix de vegetais,98.00
+Vegano,Ratatouille Clássico,Legumes fatiados e assados com molho de tomate,105.00
+Vegano,Quibe de Abóbora,Quibe assado recheado com espinafre e nozes,78.00
+Vegano,Risoto de Alho Poró,Risoto cremoso sem derivados animais com amêndoas,118.00
+Vegano,Fettuccine com Cogumelos,Massa vegana com molho de cogumelos frescos,110.00
+Vegano,Strogonoff de Palmito,Palmito pupunha com molho de tomate e leite de aveia,98.00
+Vegano,Paella Vegetariana,Arroz com alcachofras pimentões e açafrão,155.00
+Vegano,Salada de Quinoa e Manga,Quinoa real com cubos de manga e castanhas,85.00
+Vegano,Tabule de Couve-Flor,Couve-flor processada com ervas e tomate,72.00
+Vegano,Escondidinho de Shimeji,Purê de mandioca com recheio de cogumelos,98.00
+Vegano,Falafel com Salada,Bolinhos de grão de bico com mix de folhas verdes,88.00
+Vegano,Ravióli de Abóbora Vegano,Massa artesanal com recheio de abóbora cabotiá,115.00
+Vegano,Moqueca de Mix de Cogumelos,Shimeji e Paris no leite de coco,125.00
+Vegano,Taco de Jaca Desfiada,Três tacos crocantes com carne de jaca temperada,85.00
+Vegano,Arroz de Puta Rica Vegano,Arroz temperado com vegetais e proteína de soja,92.00
+Vegano,Bobó de Shimeji,Creme de mandioca com cogumelos e dendê,110.00
+Vegano,Salada de Lentilha e Nozes,Lentilha rosa com mix de nozes e damasco,82.00
+Vegano,Bruschetta de Cogumelos,Pão de fermentação natural com mix de cogumelos,75.00
+Vegano,Tempurá de Vegetais,Legumes da estação empanados e fritos,72.00
+Vegano,Polpeta de Lentilha,Almôndegas de lentilha ao molho sugo,88.00
+Vegano,Pad Thai Vegano,Macarrão de arroz com tofu amendoim e legumes,105.00
+Vegano,Risoto de Tomate Seco e Rúcula,Versão vegana sem queijo muito saborosa,112.00
+Massas,Fettuccine Mare,Massa fresca com camarão lula e mariscos ao vinho,175.00
+Massas,Ravioli de Vitela,Massa recheada com vitela ao molho de queijo Grana Padano,155.00
+Massas,Risoto de Camarão G,Arroz arbóreo com camarões gigantes e toque de limão,165.00
+Massas,Pappardelle ao Ragu,Massa larga com ragu de costela bovina,135.00
+Massas,Lasagna à Bolonhesa,Camadas de massa fresca com molho de carne,118.00
+Massas,Canelone de Ricota e Espinafre,Massa recheada com creme de queijo,105.00
+Massas,Penne ao Quattro Formaggi,Penne com creme de queijos nobres europeus,125.00
+Massas,Spaghetti Carbonara Autêntico,Com guanciale gema de ovo e pecorino romano,145.00
+Massas,Gnocchi ao Gorgonzola,Nhoque de batata macio com molho de queijo forte,115.00
+Massas,Tortellini de Abóbora,Massa recheada com abóbora e manteiga de sálvia,108.00
+Massas,Fettuccine Alfredo com Pollo,Massa clássica com tiras de frango grelhado,115.00
+Massas,Risoto de Aspargos e Brie,Risoto cremoso com pontas de aspargos e queijo brie,145.00
+Massas,Spaghetti alle Vongole,Massa com vôngoles frescos alho e óleo,155.00
+Massas,Tagliatelle com Trufas Pretas,Massa fresca salteada com manteiga de trufas,225.00
+Massas,Lasagna de Frutos do Mar,Massa intercalada com creme de camarão e lagosta,210.00
+Massas,Risoto de Cordeiro,Risoto cremoso com lascas de cordeiro e vinho,175.00
+Massas,Penne com Salmão e Vodka,Massa curta com molho rosé de salmão e vodka,148.00
+Massas,Ravioli de Brie e Mel,Massa artesanal doce e salgada com amêndoas,155.00
+Massas,Gnocchi de Mandioquinha,Com molho de carne seca e requeijão de corte,108.00
+Massas,Risoto de Polvo e Chouriço,Arroz cremoso com tentáculos de polvo e chouriço,195.00
+Massas,Spaghetti Aglio e Olio com Camarão,Massa clássica com camarões médios,145.00
+Massas,Fusilli ao Pesto de Manjericão,Massa curta com pesto caseiro e pinoli,105.00
+Massas,Ravioli de Lagosta,Massa negra recheada com carne de lagosta,265.00
+Massas,Risoto de Funghi Porcini,Risoto com o rei dos cogumelos secos italianos,155.00
+Massas,Tortelli de Mussarela de Búfala,Massa com tomate cereja e manjericão,118.00
+Massas,Linguine al Nero di Seppia,Massa com tinta de lula e frutos do mar,188.00
+Massas,Fettuccine ao Ragu de Pato,Massa fresca com molho denso de pato,165.00
+Massas,Gnocchi com Fonduta de Queijo,Nhoque selado com creme de queijos,128.00
+Massas,Risoto de Açafrão e Vieiras,Arroz arbóreo com açafrão legítimo e vieiras,245.00
+Massas,Penne All’Arrabbiata com Linguiça,Massa picante com linguiça artesanal,112.00
+Sushi,Combinado Omakase,Seleção exclusiva de 40 peças com peixes nobres,420.00
+Sushi,Sashimi de Salmão,10 fatias de salmão fresco selecionado (corte gordo),115.00
+Sushi,Nigiri de Atum Foie Gras,Dupla de nigiri com lâmina de foie gras maçaricado,145.00
+Sushi,Uramaki Especial,Roll recheado com camarão epanado e cobertura de salmão,98.00
+Sushi,Temaki de Salmão Completo,Cone de alga com salmão batido e cream cheese,68.00
+Sushi,Hossomaki de Atum,Rolo fino recheado com atum fresco (8 peças),62.00
+Sushi,Hot Roll Premium,Sushi empanado com salmão camarão e molho tarê,88.00
+Sushi,Sashimi de Polvo,10 fatias de polvo cozido ao ponto com limão,125.00
+Sushi,Nigiri de Barriga de Salmão,Dupla de nigiri com azeite de trufas e flor de sal,82.00
+Sushi,Djou de Salmão e Ovas,Enrolado de salmão com cobertura de ovas de massago,105.00
+Sushi,Uramaki Filadélfia,Roll com salmão grelhado gergelim e cream cheese,78.00
+Sushi,Carpaccio de Peixe Branco,Lâminas de robalo com molho ponzu e pimenta,98.00
+Sushi,Ebi Furai,Camarões empanados na farinha panko (6 un),155.00
+Sushi,Combinado Individual,Seleção de 15 peças variadas entre sushi e sashimi,195.00
+Sushi,Sashimi de Atum Selado,10 fatias de atum com crosta de gergelim,118.00
+Sushi,Jo de Codorna,Enrolado de salmão com gema de codorna e trufas,108.00
+Sushi,Sunomono Especial,Salada de pepino com kani polvo e camarão,62.00
+Sushi,Guioza de Carne,Pasteizinhos orientais no vapor e grelhados (5 un),58.00
+Sushi,Harumaki de Legumes,Rolinhos primavera crocantes com molho agridoce,52.00
+Sushi,Yakisoba de Frutos do Mar,Macarrão oriental com camarão lula e peixe,165.00
+Sushi,Nigiri de Enguia (Unagi),Dupla de sushi com enguia grelhada ao molho doce,165.00
+Sushi,Sashimi de Robalo,10 fatias de peixe branco fresco de época,105.00
+Sushi,Uramaki de Pele de Salmão,Roll com pele de salmão grelhada e crocante,65.00
+Sushi,Djou de Codorna Trufado,Salmão enrolado com gema maçaricada e trufa,112.00
+Sushi,Temaki de Atum Spicy,Cone de atum picado com pimenta sriracha,75.00
+Sushi,Combinado do Chef (60 peças),Mix variado com as melhores peças do dia,580.00
+Sushi,Poke de Salmão Completo,Tigela com arroz peixe frutas e castanhas,105.00
+Sushi,Nigiri de Camarão G,Dupla de nigiri com camarão grande cozido,92.00
+Sushi,Hossomaki de Pepino (Kappa),Rolo fino vegetariano com pepino (8 peças),48.00
+Sushi,Sashimi de Salmão Maçaricado,10 fatias seladas com maçarico e gergelim,118.00
+Bebidas,Vinho Cabernet Reserva,Garrafa de vinho tinto de vinícola premium,295.00
+Bebidas,Champagne Veuve Clicquot,Garrafa clássica de champagne francês,850.00
+Bebidas,Gin Tônica Artesanal,Gin premium com infusão de botânicos,75.00
+Bebidas,Suco de Pitaya e Limão,Suco natural refrescante sem açúcar,35.00
+Bebidas,Cerveja Artesanal IPA,Garrafa de 500ml de cerveja local premiada,48.00
+Bebidas,Whisky 12 Anos,Dose de whisky escocês envelhecido,65.00
+Bebidas,Cocktail Negroni,Gin vermute tinto e campari,62.00
+Bebidas,Água Mineral Importada,Garrafa de 750ml de água gaseificada premium,42.00
+Bebidas,Drink de Assinatura,Cocktail autoral com frutas tropicais e vodka,68.00
+Bebidas,Vinho Chardonnay Branco,Garrafa de vinho branco seco refrescante,245.00
+Bebidas,Café Espresso Gourmet,Café de origem controlada com petit four,18.00
+Bebidas,Chá Gelado da Casa,Chá preto com pêssego e hortelã natural,28.00
+Bebidas,Sangria de Frutas (Jarra),Vinho tinto com mix de frutas da estação,155.00
+Bebidas,Margarita de Hibisco,Tequila com infusão de hibisco e borda de sal,58.00
+Bebidas,Licor Digestivo,Dose de licor de ervas ou creme,45.00
+Bebidas,Soda Italiana Maçã Verde,Refresco gaseificado com xarope artesanal,32.00
+Bebidas,Vinho Rosé Provence,Garrafa de vinho rosé francês leve,325.00
+Bebidas,Cerveja Premium Lager,Garrafa long neck de marca internacional,28.00
+Bebidas,Suco de Tomate Temperado,Clássico suco temperado com especiarias,38.00
+Bebidas,Espumante Nacional Brut,Garrafa de espumante premiado do Sul,195.00
+Bebidas,Vodka Premium (Dose),Dose de vodka polonesa ou francesa,55.00
+Bebidas,Moscow Mule,Vodka limão e espuma de gengibre artesanal,72.00
+Bebidas,Aperol Spitz,Prosecco aperol e água com gás e laranja,65.00
+Bebidas,Caipirinha de Frutas Vermelhas,Cachaça envelhecida com mix de bagas,55.00
+Bebidas,Vinho Malbec Argentino,Garrafa de tinto encorpado de Mendoza,285.00
+Bebidas,Suco de Tangerina Natural,Suco da fruta espremida na hora,32.00
+Bebidas,Água de Coco Natural,Copo de 300ml de água de coco fresca,25.00
+Bebidas,Refrigerante em Lata,Lata de 350ml variedades,15.00
+Bebidas,Clericot de Vinho Branco,Jarra com vinho branco e frutas picadas,155.00
+Bebidas,Digestivo Underberg,Dose clássica de ervas amargas,45.00
+sobremesas,Tiramisù Italliano,Clássica sobremesa de café com mascarpone fresco,68.00
+sobremesas,Petit Gâteau Belga,Bolinho quente com sorvete de baunilha Bourbon,62.00
+sobremesas,Tábua de Queijos,Seleção de queijos europeus com mel e nozes,185.00
+sobremesas,Cheesecake de Frutas Vermelhas,Massa de biscoito com creme e calda,58.00
+sobremesas,Crème Brûlée,Creme de baunilha com crosta de açúcar queimado,55.00
+sobremesas,Mousse de Limão Siciliano,Mousse aerada com raspas e merengue,48.00
+sobremesas,Frutas da Estação,Seleção de frutas frescas laminadas,42.00
+sobremesas,Pudim de Leite Condensado,O clássico brasileiro em versão gourmet,45.00
+sobremesas,Brownie com Nozes,Acompanha sorvete de creme e calda,58.00
+sobremesas,Banoffee Pie,Torta de banana com doce de leite e chantilly,55.00
+Outros,Couvert Artístico,Taxa de música ao vivo por pessoa,55.00
+Outros,Serviço de Manobrista,Valet parking com seguro,60.00
+Outros,Kit Aniversário,Bolo pequeno e decoração de mesa básica,185.00
+Outros,Vinho para Viagem,Embalagem especial para transporte de vinhos,35.00
+Outros,Cesta de Pães Adicional,Mix extra de pães artesanais,38.00
+Outros,Porção de Arroz Branco,Acompanhamento extra de arroz soltinho,25.00
+Outros,Porção de Fritas rústicas,Batatas fritas crocantes com sal de ervas,45.00
+Outros,Purê de Batata Trufado,Acompanhamento extra com azeite de trufas,58.00
+Outros,Farofa de Bacon e Ovos,Farofa úmida na manteiga com crocantes,42.00
+Outros,Ovo Frito Orgânico,Adicional de ovo caipira frito na manteiga,28.00

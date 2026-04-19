@@ -1,0 +1,41 @@
+nome,cargo,departamento,data_admissao,salario
+Ricardo Santos,Gerente Geral,Administrativo,2023-01-15,8500.00
+Ana Paula Lima,Chef de Cozinha,Cozinha,2023-02-10,7800.00
+Marcos Oliveira,Sous Chef,Cozinha,2023-03-05,5800.00
+Beatriz Souza,Maître,Salão,2023-01-20,5200.00
+Carlos Alberto,Garçom Senior,Salão,2023-04-12,3500.00
+Daniela Viegas,Garçom Senior,Salão,2023-04-15,3500.00
+Eduardo Moreira,Garçom,Salão,2023-05-20,3200.00
+Fernanda Costa,Garçom,Salão,2023-05-22,3200.00
+Gabriel Silva,Garçom,Salão,2023-06-01,3200.00
+Helena Nunes,Garçom,Salão,2023-06-05,3200.00
+Igor Guimarães,Garçom,Salão,2023-06-10,3200.00
+Julia Paiva,Garçom,Salão,2023-06-12,3200.00
+Kevin Lopes,Garçom,Salão,2023-06-15,3200.00
+Larissa Melo,Atendente,Salão,2023-02-15,2950.00
+Maurício Cruz,Atendente,Salão,2023-02-20,2950.00
+Natália Rosa,Atendente,Salão,2023-03-01,2950.00
+Otávio Bueno,Atendente,Salão,2023-03-10,2950.00
+Patrícia Reis,Cozinheiro,Cozinha,2023-01-10,3800.00
+Quintino Neto,Cozinheiro,Cozinha,2023-01-12,3800.00
+Rafaela Dias,Cozinheiro,Cozinha,2023-01-15,3800.00
+Sérgio Vaz,Ajudante de Cozinha,Cozinha,2023-07-01,2800.00
+Tatiane Luz,Ajudante de Cozinha,Cozinha,2023-07-05,2800.00
+Uriel Mendes,Ajudante de Cozinha,Cozinha,2023-07-10,2800.00
+Vitor Meireles,Ajudante de Cozinha,Cozinha,2023-07-15,2800.00
+Wagner Antunes,Ajudante de Cozinha,Cozinha,2023-07-20,2800.00
+Xavier Silveira,Chapeiro,Cozinha,2023-02-01,3400.00
+Yara Farias,Confeiteiro,Cozinha,2023-03-15,4200.00
+Andréa Martins,Recepcionista,Salão,2023-01-25,2950.00
+Bruno Fontes,Recepcionista,Salão,2023-01-30,2950.00
+Cíntia Pires,Sommelier,Salão,2023-02-05,5500.00
+Diego Faro,Barman,Salão,2023-03-10,3600.00
+Elisa Castro,Auxiliar de Bar,Salão,2023-03-12,2800.00
+Felipe Ramos,Auxiliar de Bar,Salão,2023-03-15,2800.00
+Fábio Junior,Cumim,Salão,2023-08-01,2800.00
+Gisele Barbosa,Cumim,Salão,2023-08-05,2800.00
+Hugo Magalhães,Cumim,Salão,2023-08-10,2800.00
+Irene Joliot,Auxiliar de Limpeza,Administrativo,2023-01-05,2800.00
+João Kleber,Auxiliar de Limpeza,Administrativo,2023-01-05,2800.00
+Luana Piovani,Auxiliar de Limpeza,Administrativo,2023-01-05,2800.00
+Moacyr Franco,Estoquista,Administrativo,2023-01-10,3100.00
