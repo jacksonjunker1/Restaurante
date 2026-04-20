@@ -4,6 +4,8 @@ from funcao_carregar_dados import carregar_dados
 from funcao_buscar_pratos import Busca_Pratos
 import pandas as pd
 from tabulate import tabulate
+from colorama import Fore, Style, init
+init(autoreset=True)
 import sys
 
 
@@ -16,7 +18,7 @@ def fazer_pedido():
     valor_compra = 0
     
     while True:
-        print('='*20 + 'Fazer Pedidos' + '='*20 + '\n')
+        print(Fore.YELLOW + '='*20 + ' Fazer Pedidos ' + '='*20 + '\n')
         
         nome_cliente = input('Digite seu nome: ')
         Prato = int(input('\nQual Prato Deseja (peça pelo numero): '))
